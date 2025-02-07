@@ -1,8 +1,11 @@
-
+import java.util.Scanner;
 
 public class Armstrong {
     public static void main(String[] args) {
-        int n=153;//8208
+        Scanner sc= new Scanner(System.in);
+        System.out.println("enter the number:");
+        int n =sc.nextInt();
+        
         int count=0;
 
         for(int i=n;i>0;i=i/10)
@@ -27,3 +30,6 @@ public class Armstrong {
 
     }
 }
+//rem=temp%10
+// result=result+(int)Math.pow(rem,count)
+//temp=temp/10

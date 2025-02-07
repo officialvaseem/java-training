@@ -1,0 +1,7 @@
+# how to approach
+-no of lines=no of rows
+- no of times the outer for loop will go
+# identify for every row no
+- how many col are there
+-types of elements in the columns
+#what do you need to print

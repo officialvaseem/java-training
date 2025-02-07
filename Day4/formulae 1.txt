@@ -1,0 +1,16 @@
+i=1,n=5
+totalColInRow=1
+spaces=4 // n-totalColInRow - - - - 1
+
+i=2,n=5
+totalCol=2
+spaces=3 // - - - 2 1
+
+i=3, n=5
+totalCol=3
+spaces=2 // - - 3 2 1
+
+i=4,n=5
+totalCols=4
+spaces=1 // - 4 3 2 1
+
