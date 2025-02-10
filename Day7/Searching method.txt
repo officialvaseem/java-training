@@ -1,0 +1,7 @@
+# searching method
+indexOf("ASCII/character seq")
+indexOf("ASCII/character seq",from index)
+lastIndexOf("ASCII/character seq" and from index)
+substring(BeginIndex,EndIndex)
+charAt(index)
+subsequence(BeginIndex,EndIndex)

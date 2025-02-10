@@ -1,0 +1,14 @@
+Important method
+1 islength()
+2 isblank()
+3 isempty()
+// comparison methods
+4 equals()
+5 equalsIgnoreCase()
+6 compareTo()
+7 compareToIgnoreCase()
+8 startswith(prefix,fromIndex)
+9 endswith()
+10 contentEquals(charseq)
+11 contentEquals(StringBuffer)
+12 contains()

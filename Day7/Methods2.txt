@@ -1,0 +1,39 @@
+matches()
+replace()
+replaceFirst()
+replaceAll()
+split() // it also returns character array
+join()
+contains()
+
+# String-Immutable,stringbuffer,stringbuilder
+when string objects need  to be modified very often we should not use string objects
+
+## stringBuffer-java.lang-Mutable class-synchronized class
+we cannot make the string literal as mutable by using the stringBuffer
+'StringBuffer sb="abc;"
+
+#synchronized-Method is same,it is thread safe , when a object of a file is running we cant alter
+it is a native method
+string buffer is thread safe
+all the methods are synchronized 
+
+#string buffer example:-
+mobile--->speaker
+playsong()--speaker
+IncomingCall()--speaker
+-sequential action
+
+# StringBuilder-non synchronized class -java.lang-mutable class-JDK 1.5;
+A mutable sequence of characters.This class provides an API compatible with
+ StringBuffer,but with ' no guarentee of synchronization
+ string builder is thread safe
+ all methods are not synchronized methods 
+
+#Method(string buffer)
+append()
+insert(offset,"char seq")
+reverse()
+deleteCharAt(index)
+replace(start,end,"char seq")
+hashCode()

@@ -1,0 +1,10 @@
+String - from String
+string is immutable
+toLowerCase()
+toUpperCase()
+trim()
+StripLeading()
+StripTrailing()
+repeat(count)
+indent(int)
+toCharArray()
