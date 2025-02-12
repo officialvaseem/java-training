@@ -1,0 +1,9 @@
+abstarct method-abstract class;
+abstract class- abstract method;
+if we have abstract method in a class then definitely the class is abstract, recursive is not true
+we can maintain an abstract class without any abstract method 
+
+
+Abstract class cannot be instantiated
+
+child class object can be created if child class is non abstract class
