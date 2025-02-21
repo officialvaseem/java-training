@@ -1,0 +1,34 @@
+#Lambda
+
+lambda expression is a short block of code
+ which takes in parameter and returns a value
+ lambda expression are similar to methods,  but they do methods.
+
+ Lambda expression
+
+public void display(){
+    sout("hi");
+}
+
+1. Remove metrhod name
+public void(){
+    sout("hi");
+}
+
+2. remove return datatype
+public(){
+    sout("hi);
+}
+
+Remove access modifier
+()
+{
+    sout("hi);
+}
+
+4.Add -> in between () and ()
+()->
+{
+    sout("hi");
+}
+     

@@ -1,0 +1,4 @@
+#Predicates
+functional interface
+abstract boolean test(object 0)
+predicate is a function with only one argumentand return a boolean value
